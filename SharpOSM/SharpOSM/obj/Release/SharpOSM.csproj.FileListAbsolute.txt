@@ -1,0 +1,9 @@
+C:\Users\herve\dev\osm\SharpOSM\SharpOSM\bin\Release\SharpOSM.dll
+C:\Users\herve\dev\osm\SharpOSM\SharpOSM\bin\Release\SharpOSM.pdb
+C:\Users\herve\dev\osm\SharpOSM\SharpOSM\bin\Release\AssimpNet.dll
+C:\Users\herve\dev\osm\SharpOSM\SharpOSM\bin\Release\clipper_library.dll
+C:\Users\herve\dev\osm\SharpOSM\SharpOSM\bin\Release\Poly2Tri.dll
+C:\Users\herve\dev\osm\SharpOSM\SharpOSM\bin\Release\AssimpNet.xml
+C:\Users\herve\dev\osm\SharpOSM\SharpOSM\obj\Release\SharpOSM.csprojResolveAssemblyReference.cache
+C:\Users\herve\dev\osm\SharpOSM\SharpOSM\obj\Release\SharpOSM.dll
+C:\Users\herve\dev\osm\SharpOSM\SharpOSM\obj\Release\SharpOSM.pdb

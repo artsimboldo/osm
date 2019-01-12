@@ -1,0 +1,9 @@
+C:\Users\herve\dev\osm\SharpOSMgl\SharpOSMTest\bin\Release\SharpOSMTest.dll
+C:\Users\herve\dev\osm\SharpOSMgl\SharpOSMTest\bin\Release\SharpOSMTest.pdb
+C:\Users\herve\dev\osm\SharpOSMgl\SharpOSMTest\bin\Release\SharpOSM.dll
+C:\Users\herve\dev\osm\SharpOSMgl\SharpOSMTest\bin\Release\Poly2Tri.dll
+C:\Users\herve\dev\osm\SharpOSMgl\SharpOSMTest\bin\Release\clipper_library.dll
+C:\Users\herve\dev\osm\SharpOSMgl\SharpOSMTest\bin\Release\SharpOSM.pdb
+C:\Users\herve\dev\osm\SharpOSMgl\SharpOSMTest\obj\Release\SharpOSMTest.csprojResolveAssemblyReference.cache
+C:\Users\herve\dev\osm\SharpOSMgl\SharpOSMTest\obj\Release\SharpOSMTest.dll
+C:\Users\herve\dev\osm\SharpOSMgl\SharpOSMTest\obj\Release\SharpOSMTest.pdb

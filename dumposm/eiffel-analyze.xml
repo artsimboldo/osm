@@ -1,0 +1,100 @@
+<relation id="4114843" visible="true" version="9" changeset="26272963" timestamp="2014-10-23T08:31:54Z" user="Cactusbone" uid="896509">
+  <member type="way" ref="5013364" role="outline"/>
+  <member type="relation" ref="4114838" role="part"/>
+  <member type="relation" ref="4114840" role="part"/>
+  <member type="relation" ref="4114839" role="part"/>
+  <member type="relation" ref="4114842" role="part"/>
+  <member type="relation" ref="4114841" role="part"/>
+  <tag k="note" v="Tour Eiffel"/>
+  <tag k="type" v="building"/>
+ </relation>
+  <relation id="4114838" visible="true" version="10" changeset="29811853" timestamp="2015-03-28T18:48:16Z" user="mapper999" uid="165061">
+  <member type="way" ref="69034180" role="outer"/>
+  <member type="way" ref="69034127" role="outer"/>
+  <member type="way" ref="69034135" role="outer"/>
+  <member type="way" ref="69034179" role="outer"/>
+  <tag k="building:colour" v="#FFFFF0"/>
+  <tag k="building:height" v="4"/>
+  <tag k="building:material" v="concrete"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="layer" v="1"/>
+  <tag k="level" v="0"/>
+  <tag k="note" v="Tour Eiffel base"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+ <relation id="4114840" visible="true" version="11" changeset="26272963" timestamp="2014-10-23T08:31:54Z" user="Cactusbone" uid="896509">
+  <member type="way" ref="308145237" role="part"/>
+  <member type="way" ref="308145236" role="part"/>
+  <member type="way" ref="308145233" role="part"/>
+  <member type="way" ref="308145234" role="part"/>
+  <member type="way" ref="308687749" role="part"/>
+  <member type="way" ref="308687746" role="part"/>
+  <member type="way" ref="308687755" role="part"/>
+  <member type="way" ref="308687751" role="part"/>
+  <member type="way" ref="308687744" role="part"/>
+  <member type="way" ref="308687754" role="part"/>
+  <member type="way" ref="308687750" role="part"/>
+  <member type="way" ref="308687747" role="part"/>
+  <member type="way" ref="308687748" role="part"/>
+  <member type="way" ref="308687745" role="part"/>
+  <member type="way" ref="308687753" role="part"/>
+  <member type="way" ref="308687752" role="part"/>
+  <member type="way" ref="308689165" role="part"/>
+  <member type="way" ref="308689166" role="part"/>
+  <member type="way" ref="308689167" role="part"/>
+  <member type="way" ref="308689164" role="part"/>
+  <tag k="building:min_height" v="4"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="layer" v="2"/>
+  <tag k="name" v="Tour Eiffel piliers"/>
+  <tag k="type" v="building"/>
+ </relation>
+<relation id="4114839" visible="true" version="10" changeset="26272888" timestamp="2014-10-23T08:26:41Z" user="Cactusbone" uid="896509">
+  <member type="way" ref="308021391" role="outer"/>
+  <member type="way" ref="308145238" role="inner"/>
+  <member type="way" ref="308145235" role="inner"/>
+  <member type="way" ref="308145230" role="inner"/>
+  <member type="way" ref="308145231" role="inner"/>
+  <member type="way" ref="308145232" role="inner"/>
+  <member type="way" ref="308145258" role="inner"/>
+  <member type="way" ref="308145239" role="inner"/>
+  <member type="way" ref="308145259" role="inner"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="covered" v="yes"/>
+  <tag k="height" v="60"/>
+  <tag k="layer" v="3"/>
+  <tag k="level" v="1"/>
+  <tag k="min_height" v="57.63"/>
+  <tag k="note" v="Tour Eiffel 1er étage"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+ <relation id="4114841" visible="true" version="9" changeset="29790266" timestamp="2015-03-27T21:46:48Z" user="mapper999" uid="165061">
+  <member type="way" ref="308021389" role="outer"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="description" v="Tour Eiffel"/>
+  <tag k="height" v="300"/>
+  <tag k="layer" v="5"/>
+  <tag k="level" v="3"/>
+  <tag k="min_height" v="276.13"/>
+  <tag k="name" v="Tour Eiffel 3e étage"/>
+  <tag k="note" v="Tour Eiffel 3e étage"/>
+  <tag k="roof:shape" v="dome"/>
+  <tag k="source" v="www.tour-eiffel.fr"/>
+  <tag k="tourism" v="viewpoint"/>
+  <tag k="type" v="multipolygon"/>
+  <tag k="wheelchair" v="limited"/>
+ </relation>
+ <relation id="4114842" visible="true" version="9" changeset="26259765" timestamp="2014-10-22T16:51:56Z" user="Cactusbone" uid="896509">
+  <member type="way" ref="308021390" role="outer"/>
+  <member type="way" ref="308145255" role="inner"/>
+  <member type="way" ref="308145252" role="inner"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="covered" v="yes"/>
+  <tag k="height" v="120"/>
+  <tag k="layer" v="4"/>
+  <tag k="level" v="2"/>
+  <tag k="min_height" v="115.73"/>
+  <tag k="name" v="Tour Eiffel 2e étage"/>
+  <tag k="tourism" v="viewpoint"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>

@@ -1,0 +1,17 @@
+C:\Users\Lange\Desktop\osm\SharpOSM\SharpOSM\bin\Debug\SharpOSM.dll
+C:\Users\Lange\Desktop\osm\SharpOSM\SharpOSM\bin\Debug\SharpOSM.pdb
+C:\Users\Lange\Desktop\osm\SharpOSM\SharpOSM\bin\Debug\AssimpNet.dll
+C:\Users\Lange\Desktop\osm\SharpOSM\SharpOSM\bin\Debug\Poly2Tri.dll
+C:\Users\Lange\Desktop\osm\SharpOSM\SharpOSM\bin\Debug\AssimpNet.xml
+C:\Users\Lange\Desktop\osm\SharpOSM\SharpOSM\obj\Debug\SharpOSM.csprojResolveAssemblyReference.cache
+C:\Users\Lange\Desktop\osm\SharpOSM\SharpOSM\obj\Debug\SharpOSM.dll
+C:\Users\Lange\Desktop\osm\SharpOSM\SharpOSM\obj\Debug\SharpOSM.pdb
+C:\Users\herve\dev\osm\SharpOSM\SharpOSM\bin\Debug\SharpOSM.dll
+C:\Users\herve\dev\osm\SharpOSM\SharpOSM\bin\Debug\SharpOSM.pdb
+C:\Users\herve\dev\osm\SharpOSM\SharpOSM\bin\Debug\AssimpNet.dll
+C:\Users\herve\dev\osm\SharpOSM\SharpOSM\bin\Debug\Poly2Tri.dll
+C:\Users\herve\dev\osm\SharpOSM\SharpOSM\bin\Debug\AssimpNet.xml
+C:\Users\herve\dev\osm\SharpOSM\SharpOSM\obj\Debug\SharpOSM.dll
+C:\Users\herve\dev\osm\SharpOSM\SharpOSM\obj\Debug\SharpOSM.pdb
+C:\Users\herve\dev\osm\SharpOSM\SharpOSM\bin\Debug\clipper_library.dll
+C:\Users\herve\dev\osm\SharpOSM\SharpOSM\obj\Debug\SharpOSM.csprojResolveAssemblyReference.cache
